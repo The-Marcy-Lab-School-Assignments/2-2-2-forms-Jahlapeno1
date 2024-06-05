@@ -1,5 +1,5 @@
 /** GENERAL FEEDBACK:
- *
+ * Great job getting all test cases to pass! 
  */
 
 
@@ -21,6 +21,7 @@ const handleSubmit = (e) => {
   e.preventDefault()
 };
 
+/** FEEDBACK: Awesome! */
 const main = () => {
   // console.log(document.querySelector('form'))
   document.querySelector('form').addEventListener('submit', handleSubmit)
